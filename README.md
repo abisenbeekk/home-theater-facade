@@ -1,11 +1,12 @@
 # Home Theater Facade — Facade Design Pattern
 
-## Course
-**ShP-2216 Software Design Patterns**  
-Astana IT University — School of Computer Engineering
+## Course-SDP
 
 ## Student
-Bissenbek Ayaulym
+Bissenbek Ayaulym 
+
+## Group
+SE-2505
 
 ## Pattern
 **Facade** (Structural Design Pattern)
